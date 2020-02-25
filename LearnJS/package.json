@@ -9,7 +9,9 @@
   "author": "oun1982",
   "license": "ISC",
   "dependencies": {
+    "express": "^4.17.1",
     "jssip": "^3.3.11",
+    "pug": "^2.0.4",
     "terminal-kit": "^1.33.15"
   }
 }
