@@ -3,3 +3,6 @@ function doMath(num1, num2){
         return num2;
 }
 console.log(doMath(10,20));
+console.log(doMath(40,30));
+console.log(doMath(50,30));
+console.log(doMath(50,30));
