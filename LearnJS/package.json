@@ -1,0 +1,15 @@
+{
+  "name": "learnjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "js001.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "oun1982",
+  "license": "ISC",
+  "dependencies": {
+    "jssip": "^3.3.11",
+    "terminal-kit": "^1.33.15"
+  }
+}
